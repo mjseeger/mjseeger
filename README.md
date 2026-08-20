@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Manuel Seeger 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/mjseeger">
     <img src="https://img.shields.io/badge/LinkedIn-Manuel%20Seeger-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:manuelseeger12@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=mjseeger&style=flat&color=blue" alt="Profile views" />
