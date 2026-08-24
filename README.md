@@ -39,10 +39,6 @@ and Kubernetes.
 | [terraform-aws-3tier-webapp](https://github.com/mjseeger/terraform-aws-3tier-webapp) | Modular Terraform setup provisioning a 3-tier web application on AWS (VPC, ALB, Auto Scaling, RDS) |
 | [kubernetes-flask-app](https://github.com/mjseeger/kubernetes-flask-app) | Kubernetes deployment of an instrumented Flask API — liveness/readiness probes, HorizontalPodAutoscaler, NetworkPolicy, and an equivalent Helm chart |
 
-## ✍️ Writing
-
-- [How I built a 3-tier AWS infrastructure with Terraform](#) <!-- Link zu deinem Blogpost/Case-Study, sobald geschrieben -->
-
 ## 📫 Get in touch
 
 - LinkedIn: [linkedin.com/in/mjseeger](https://www.linkedin.com/in/mjseeger)
